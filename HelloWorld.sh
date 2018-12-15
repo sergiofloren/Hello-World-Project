@@ -1,2 +1,2 @@
 #l/bin/sh
-echo "Hello World!"
+echo "Hello WorldAdmin!"
